@@ -17,11 +17,12 @@
 - <h5> :tada: Line Chat Bot by collaborating with Google App Script with Hugging-Face's Flan-T5-Model and Name-Entity Recognition Model  </h5>
 - <h5> :tada: Stock Market Prediction ( USD/JPY )  With LSTM Time Series Model </h5>
 </br>
+
 <h2 align="left">⚡ Tech Stack</h2>
 
 ### 🧠 AI/ML  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,anaconda, selenium" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,anaconda,selenium" />
 </p>
 
 ### 🚀 Frontend  
